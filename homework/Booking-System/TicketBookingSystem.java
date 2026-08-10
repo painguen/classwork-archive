@@ -1,4 +1,4 @@
-package groupproject;
+package bookingsystem;
 import java.util.Scanner;
 //Welcome to the main program!
 public class TicketBookingSystem {
