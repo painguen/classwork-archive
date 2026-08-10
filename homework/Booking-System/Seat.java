@@ -1,4 +1,4 @@
-package groupproject;
+package bookingsystem;
 
 public class Seat {
     int seatNumber;
