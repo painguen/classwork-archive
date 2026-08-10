@@ -1,4 +1,4 @@
-package groupproject;
+package bookingsystem;
 
 import java.util.List;
 import java.util.ArrayList;
